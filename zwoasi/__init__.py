@@ -993,6 +993,8 @@ ASI_COOLER_ON = 17
 ASI_MONO_BIN = 18  # lead to less grid at software bin mode for color camera
 ASI_FAN_ON = 19
 ASI_PATTERN_ADJUST = 20
+ASI_ANTI_DEW_HEATER = 21
+ASI_FAN_ADJUST = 22
 
 # ASI_CAMERA_MODE
 ASI_MODE_NORMAL = 0 
